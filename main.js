@@ -10,6 +10,7 @@ class Pictureboard {
     constructor(link) {
         this.imageWithDate = {};
         this.url = link
+        console.log('test');
 
     }
 
